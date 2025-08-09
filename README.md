@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**martintodorovdev/martintodorovdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Martin, a **Fullstack Software Developer** 💻.
 
-Here are some ideas to get you started:
+I am a passionate software developer who loves to create beautiful and functional solutions. My goal is to build software that is not only elegant in design but also genuinely useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education**
+I am a Computer Science graduate from Ca'Foscari University of Venice 🎓.
+
+**Interests**
+Coding, eating, and brazilian jiu-jitsu.
+
+**Connect with me**
+LinkedIn: www.linkedin.com/in/martintodorovdev
